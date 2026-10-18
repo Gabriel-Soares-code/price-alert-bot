@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "type": "flight",
+    "origin": "PMW",
+    "destination": "MAD",
+    "departureDate": "Qualquer data",
+    "maxPrice": 3800,
+    "lastPrice": 3827,
+    "active": true,
+    "createdAt": "2026-10-15T00:17:45.227Z",
+    "lastCheckedAt": "2026-10-18T21:15:49.100Z"
+  },
+  {
+    "id": "2",
+    "type": "flight",
+    "origin": "PMW",
+    "destination": "BCN",
+    "departureDate": "Qualquer data",
+    "maxPrice": 4000,
+    "lastPrice": 3782,
+    "active": true,
+    "createdAt": "2026-10-15T00:17:45.229Z",
+    "lastCheckedAt": "2026-10-18T21:15:49.791Z"
+  },
+  {
+    "id": "3",
+    "type": "flight",
+    "origin": "BSB",
+    "destination": "MAD",
+    "departureDate": "Qualquer data",
+    "maxPrice": 3400,
+    "lastPrice": 3561,
+    "active": true,
+    "createdAt": "2026-10-15T00:17:45.229Z",
+    "lastCheckedAt": "2026-10-18T21:15:49.814Z"
+  },
+  {
+    "id": "4",
+    "type": "flight",
+    "origin": "BSB",
+    "destination": "BCN",
+    "departureDate": "Qualquer data",
+    "maxPrice": 3500,
+    "lastPrice": 3130,
+    "active": true,
+    "createdAt": "2026-10-15T00:17:45.229Z",
+    "lastCheckedAt": "2026-10-18T21:15:50.503Z"
+  }
+]
