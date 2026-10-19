@@ -6,10 +6,8 @@
     "destination": "MAD",
     "departureDate": "Qualquer data",
     "maxPrice": 3800,
-    "lastPrice": 3827,
-    "active": true,
-    "createdAt": "2026-10-15T00:17:45.227Z",
-    "lastCheckedAt": "2026-10-18T21:15:49.100Z"
+    "lastPrice": null,
+    "active": true
   },
   {
     "id": "2",
@@ -18,33 +16,87 @@
     "destination": "BCN",
     "departureDate": "Qualquer data",
     "maxPrice": 4000,
-    "lastPrice": 3782,
-    "active": true,
-    "createdAt": "2026-10-15T00:17:45.229Z",
-    "lastCheckedAt": "2026-10-18T21:15:49.791Z"
+    "lastPrice": null,
+    "active": true
   },
   {
     "id": "3",
+    "type": "flight",
+    "origin": "PMW",
+    "destination": "VLC",
+    "departureDate": "Qualquer data",
+    "maxPrice": 4100,
+    "lastPrice": null,
+    "active": true
+  },
+  {
+    "id": "4",
+    "type": "flight",
+    "origin": "PMW",
+    "destination": "SVQ",
+    "departureDate": "Qualquer data",
+    "maxPrice": 4150,
+    "lastPrice": null,
+    "active": true
+  },
+  {
+    "id": "5",
+    "type": "flight",
+    "origin": "PMW",
+    "destination": "AGP",
+    "departureDate": "Qualquer data",
+    "maxPrice": 4050,
+    "lastPrice": null,
+    "active": true
+  },
+  {
+    "id": "6",
     "type": "flight",
     "origin": "BSB",
     "destination": "MAD",
     "departureDate": "Qualquer data",
     "maxPrice": 3400,
-    "lastPrice": 3561,
-    "active": true,
-    "createdAt": "2026-10-15T00:17:45.229Z",
-    "lastCheckedAt": "2026-10-18T21:15:49.814Z"
+    "lastPrice": null,
+    "active": true
   },
   {
-    "id": "4",
+    "id": "7",
     "type": "flight",
     "origin": "BSB",
     "destination": "BCN",
     "departureDate": "Qualquer data",
     "maxPrice": 3500,
-    "lastPrice": 3130,
-    "active": true,
-    "createdAt": "2026-10-15T00:17:45.229Z",
-    "lastCheckedAt": "2026-10-18T21:15:50.503Z"
+    "lastPrice": null,
+    "active": true
+  },
+  {
+    "id": "8",
+    "type": "flight",
+    "origin": "BSB",
+    "destination": "VLC",
+    "departureDate": "Qualquer data",
+    "maxPrice": 3600,
+    "lastPrice": null,
+    "active": true
+  },
+  {
+    "id": "9",
+    "type": "flight",
+    "origin": "BSB",
+    "destination": "SVQ",
+    "departureDate": "Qualquer data",
+    "maxPrice": 3650,
+    "lastPrice": null,
+    "active": true
+  },
+  {
+    "id": "10",
+    "type": "flight",
+    "origin": "BSB",
+    "destination": "AGP",
+    "departureDate": "Qualquer data",
+    "maxPrice": 3550,
+    "lastPrice": null,
+    "active": true
   }
 ]
